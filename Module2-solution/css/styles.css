@@ -17,7 +17,7 @@ p {
   	width: 90%;
   	margin-right: auto;
   	margin-left: auto;
-	padding: 30px;
+	padding: 35px;
 	position: relative;
 }
 
@@ -29,6 +29,7 @@ p {
 	padding: 5px;
 	top: 0;
 	right: 0;
+	font-size: 125%;
 
 }
 
@@ -40,6 +41,7 @@ p {
 	top: 0;
 	right: 0;
 	color: white;
+	font-size: 125%;
 }
 
 #Sushi{
@@ -49,6 +51,7 @@ p {
 	padding: 5px;
 	top: 0;
 	right: 0;
+	font-size: 125%;
 }
 
 
